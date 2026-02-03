@@ -1,0 +1,1 @@
+MISSION 4: Two knights claim kinship.\nGoal: DFS to check ancestor-only distance.\n

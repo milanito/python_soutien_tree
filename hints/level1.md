@@ -1,0 +1,1 @@
+# Level 1\n\nBase case: None -> '.'\nRecursive case: key + '(' + left + ')(' + right + ')'\n
