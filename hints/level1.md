@@ -1,1 +1,4 @@
-# Level 1\n\nBase case: None -> '.'\nRecursive case: key + '(' + left + ')(' + right + ')'\n
+# Level 1
+
+Base case: None -> '.'
+Recursive case: key + '(' + left + ')(' + right + ')'
